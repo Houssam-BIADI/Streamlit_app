@@ -5,7 +5,7 @@ import pickle
 st.write(
     """
 # Predicting Heart Disease probality with machine learning using only behavior informations
-## This tool can be used to decide if you should to see a doctor and do further analyses to detect heart diseases.
+## This tool can be used to decide if you should see a doctor and do further analyses to detect heart diseases.
 ### by : Houssam BIADI
 """
 )
